@@ -11,7 +11,6 @@ A Ruby script that colorizes the `ls` output with color and icons. Here are the 
 
  ![image](https://user-images.githubusercontent.com/17109060/32149040-04f3125c-bd25-11e7-8003-66fd29bc18d4.png)
 
-*If you're interested in knowing the powerlevel9k configuration to get this prompt, have a look at [this gist](https://gist.github.com/athityakumar/1bd5e9e24cd2a1891565573a893993eb).*
 
 # Table of contents
 
