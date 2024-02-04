@@ -97,11 +97,11 @@ Usamos [Git](https://git-scm.com) para el versionado. Para las versiones disponi
 ## Autores ✒️
 
 - **Joel Collantes** - _Trabajo inicial_ - [Joel Collantes](https://github.com/Collantesxyz)
-- **Nombre Apellido** - _Trabajo inicial_ - [Joel Collantes](https://github.com/Collantesxyz)
-- **Nombre Apellido** - _Trabajo inicial_ - [Joel Collantes](https://github.com/Collantesxyz)
-- **Nombre Apellido** - _Trabajo inicial_ - [Joel Collantes](https://github.com/Collantesxyz)
-- **Nombre Apellido** - _Trabajo inicial_ - [Joel Collantes](https://github.com/Collantesxyz)
-- **Nombre Apellido** - _Trabajo inicial_ - [Joel Collantes](https://github.com/Collantesxyz)
+- **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
+- **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
+- **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
+- **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
+- **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
 
 Mira también la lista de [contribuidores](https://github.com/) que han participado en este proyecto.
 
