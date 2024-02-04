@@ -1,4 +1,4 @@
-# Desarrollo de una Página web/Blog 
+# Desarrollo de una Página Web/Blog 
 
 En este repositorio se encuentra la documentación de la Creación de un BLOG (página web)
 
