@@ -97,7 +97,7 @@ Usamos [Git](https://git-scm.com) para el versionado. Para las versiones disponi
 ## Autores ✒️
 
 - **Joel Collantes** - _Trabajo inicial_ - [Joel Collantes](https://github.com/Collantesxyz)
-- **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
+- **Gabriel Valencia** - _Trabajo inicial_ - [Gabriel Valencia](https://github.com/Gaboard)
 - **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
 - **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
 - **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
