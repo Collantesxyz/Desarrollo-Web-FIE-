@@ -12,21 +12,19 @@ En este repositorio se encuentra la documentación de la Creación de un BLOG (p
 
 ## Empezando 🚀
 
-Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
-
+En esta sección de la creación de la pagina vamos a mostrarte los avances y la documen
+ esencial en la que estamos trabajando constantemente, esperamos este proyecto sea de tu agrado y está información sea útil y atractiva para ti.
 ### Prerrequisitos 📋
 
 Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
 
-- Sistema Operativo (por ejemplo, Ubuntu 20.04, Windows 10)
--
--
--
--
+- Sistema Operativo (cualquier sistema operativo de tu agrado con interfaz gráfica es funcional)
+- Conectividad a Internet (Es necesario la conectividad a internet para así, poder visualizar la página.)
+- En caso de ser administrador (Usuario y contraseña)
 
-### Instalación 🔧
+### Navegación 🔧
 
-Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar todas las dependencias.
+Una guía paso a paso sobre cómo navegar en la página web.
 
 ```bash
 # paso 1
@@ -41,18 +39,6 @@ Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar
 ## Ejecutando las Pruebas ⚙️
 
 Instrucciones y ejemplos para ejecutar el conjunto de pruebas.
-
-```bash
-# proporciona un ejemplo
-```
-
-### Pruebas de Principio a Fin 🔩
-
-Explicaremos qué cubren estas pruebas, por qué son importantes y cómo interpretar sus resultados.
-
-### Pruebas de Estilo de Código ⌨️
-
-Descripción y ejemplos de las pruebas de estilo que estamos utilizando.
 
 ```bash
 # proporciona un ejemplo
@@ -100,9 +86,9 @@ Usamos [Git](https://git-scm.com) para el versionado. Para las versiones disponi
 - **Joel Collantes** - _Trabajo inicial_ - [Joel Collantes](https://github.com/Collantesxyz)
 - **Gabriel Valencia** - _Trabajo inicial_ - [Gabriel Valencia](https://github.com/Gaboard)
 - **Laura San Miguel** - _Trabajo inicial_ - [Laura San Miguel](https://github.com/lausanmiguel)
-- **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
-- **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
-- **Nombre Apellido** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
+- **Wiliam Alberto** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
+- **Luis Angel** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
+- **Saúl Ariel** - _Trabajo inicial_ - [Nombre Apellido](https://github.com/)
 
 Mira también la lista de [contribuidores](https://github.com/) que han participado en este proyecto.
 
